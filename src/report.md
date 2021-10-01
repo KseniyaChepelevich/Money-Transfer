@@ -14,6 +14,7 @@
 В процессе тестирования использовались следующие артефакты*:
 * Данные для тестирования: текущий баланс счёта клиента - 2_000_000_000 (два миллиарда рублей)*
   сумма перевода - 500_000_000 (пятьсот миллионов рублей)
+* [Программа Money-Transfer](https://github.com/KseniyaChepelevich/Money-Transfer/blob/master/src/Main.java)
 * [Скрин ошибки из панели отладчика](https://drive.google.com/file/d/10T43Bsqg91UZh6ob4GL7Qa0SHZ-6uXBm/view?usp=sharing)
 
 В качестве тестовых данных использовались данные [Домашнее задание к Занятию 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
