@@ -1,9 +1,10 @@
 import java.sql.SQLOutput;
 public class Main {
     public static void main(String[] args) {
-        int account_balance = 2_000_000_000;
-        int transfer_amount = 500_000_000;
-        int total = account_balance + transfer_amount;
+        int balance = 2_000_000_000;
+        int transfer = 500_000_000;
+        int total;
+        total = balance + transfer;
         System.out.println(total);
     }
 }
